@@ -1,2 +1,2 @@
 # test
-to test how github works
+to test how git and github works
